@@ -6,8 +6,38 @@ AtliQ Hardware is growing rapidly in the recent years, and they have decided to 
 
 Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNmFmN2EyZTQtYWY2MC00M2Y5LThmN2UtZDNlM2Y2OTVlZmJlIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-## Analysis View
+## Info View
 
 <p align="center">
-    <img src="https://github.com/vatssarthak/PowerBI-Hospitality-analysis/blob/main/Analysis%20View.png"
+    <img src="https://github.com/vatssarthak/Business-insights-360/blob/main/Info.png"
+</p>
+    
+## Finance View
+
+<p align="center">
+    <img src="https://github.com/vatssarthak/Business-insights-360/blob/main/Finance.png"
+</p>
+
+## Sales View
+
+<p align="center">
+    <img src="https://github.com/vatssarthak/Business-insights-360/blob/main/sales.png"
+</p>
+
+## Marketing View
+
+<p align="center">
+    <img src="https://github.com/vatssarthak/Business-insights-360/blob/main/Market.png"
+</p>
+
+## Supply Chain View
+
+<p align="center">
+    <img src="https://github.com/vatssarthak/Business-insights-360/blob/main/Supply%20chain.png"
+</p>
+
+## Executive View
+
+<p align="center">
+    <img src="https://github.com/vatssarthak/Business-insights-360/blob/main/Executive.png"
 </p>
